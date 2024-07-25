@@ -17,8 +17,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,5 +38,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage":"https://borgssam.github.io//clone-movie"
+  "homepage": "https://borgssam.github.io/clone-movie",
+
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
