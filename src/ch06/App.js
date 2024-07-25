@@ -11,6 +11,7 @@ class App extends React.Component {
 
   componentDidUpdate(){
     console.log('I just updated')
+    axios.get('https://yts.mx/api/v2/list_movies.json');
   }
   
   state = {
@@ -42,3 +43,9 @@ class App extends React.Component {
 }
 
 export default App;
+
+// 20240725085450
+// https://yts.mx/api/v2/list_movies.json
+
+// 20240725085624
+// https://yts.mx/api/v2/movie_details.json?movie_id=11
