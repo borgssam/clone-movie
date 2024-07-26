@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clone-movie/static/css/main.87fb3e86.css",
+    "main.js": "/clone-movie/static/js/main.b25c190b.js",
+    "static/js/453.f8b12b6f.chunk.js": "/clone-movie/static/js/453.f8b12b6f.chunk.js",
+    "index.html": "/clone-movie/index.html",
+    "main.87fb3e86.css.map": "/clone-movie/static/css/main.87fb3e86.css.map",
+    "main.b25c190b.js.map": "/clone-movie/static/js/main.b25c190b.js.map",
+    "453.f8b12b6f.chunk.js.map": "/clone-movie/static/js/453.f8b12b6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87fb3e86.css",
+    "static/js/main.b25c190b.js"
+  ]
+}
